@@ -1,12 +1,8 @@
 {
-  "version": 1,
   "locale": "en_US.UTF-8",
-  "platform": "x86_64-pc-linux-gnu",
+  "platform": "4.3.3",
   "metadata": {
     "appmode": "shiny",
-    "primary_rmd": null,
-    "primary_html": null,
-    "content_category": "",
     "entrypoint": "app.R"
   },
   "packages": {
@@ -14,92 +10,62 @@
       "Source": "CRAN",
       "Repository": "https://cloud.r-project.org",
       "Package": "shiny",
-      "Version": "1.8.0",
-      "Hash": null
+      "Version": "1.8.0"
     },
     "shinydashboard": {
       "Source": "CRAN",
       "Repository": "https://cloud.r-project.org",
       "Package": "shinydashboard",
-      "Version": "0.7.2",
-      "Hash": null
+      "Version": "0.7.2"
     },
     "googlesheets4": {
       "Source": "CRAN",
       "Repository": "https://cloud.r-project.org",
       "Package": "googlesheets4",
-      "Version": "1.1.1",
-      "Hash": null
+      "Version": "1.1.1"
     },
     "dplyr": {
       "Source": "CRAN",
       "Repository": "https://cloud.r-project.org",
       "Package": "dplyr",
-      "Version": "1.1.4",
-      "Hash": null
+      "Version": "1.1.4"
     },
     "tidyr": {
       "Source": "CRAN",
       "Repository": "https://cloud.r-project.org",
       "Package": "tidyr",
-      "Version": "1.3.1",
-      "Hash": null
+      "Version": "1.3.1"
     },
     "plotly": {
       "Source": "CRAN",
       "Repository": "https://cloud.r-project.org",
       "Package": "plotly",
-      "Version": "4.10.4",
-      "Hash": null
+      "Version": "4.10.4"
     },
     "DT": {
       "Source": "CRAN",
       "Repository": "https://cloud.r-project.org",
       "Package": "DT",
-      "Version": "0.31",
-      "Hash": null
+      "Version": "0.31"
     },
     "scales": {
       "Source": "CRAN",
       "Repository": "https://cloud.r-project.org",
       "Package": "scales",
-      "Version": "1.3.0",
-      "Hash": null
+      "Version": "1.3.0"
     },
     "lubridate": {
       "Source": "CRAN",
       "Repository": "https://cloud.r-project.org",
       "Package": "lubridate",
-      "Version": "1.9.3",
-      "Hash": null
+      "Version": "1.9.3"
     },
     "stringr": {
       "Source": "CRAN",
       "Repository": "https://cloud.r-project.org",
       "Package": "stringr",
-      "Version": "1.5.1",
-      "Hash": null
-    },
-    "htmltools": {
-      "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
-      "Package": "htmltools",
-      "Version": "0.5.7",
-      "Hash": null
-    },
-    "jsonlite": {
-      "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
-      "Package": "jsonlite",
-      "Version": "1.8.8",
-      "Hash": null
-    },
-    "rlang": {
-      "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org",
-      "Package": "rlang",
-      "Version": "1.1.3",
-      "Hash": null
+      "Version": "1.5.1"
     }
-  }
+  },
+  "r_version": "4.3.3"
 }
