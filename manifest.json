@@ -1,6 +1,8 @@
 {
+  "version": "1",
   "locale": "en_US.UTF-8",
-  "platform": "4.3.3",
+  "platform": "x86_64-pc-linux-gnu",
+  "r_version": "4.3.3",
   "metadata": {
     "appmode": "shiny",
     "entrypoint": "app.R"
@@ -66,6 +68,5 @@
       "Package": "stringr",
       "Version": "1.5.1"
     }
-  },
-  "r_version": "4.3.3"
+  }
 }
