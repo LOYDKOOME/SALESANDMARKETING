@@ -12,52 +12,52 @@
   "packages": {
     "shiny": {
       "Source": "CRAN",
-      "Repository": "https://cran.r-project.org",
+      "Repository": "https://packagemanager.posit.co/cran/latest",
       "Package": "shiny"
     },
     "shinydashboard": {
       "Source": "CRAN",
-      "Repository": "https://cran.r-project.org",
+      "Repository": "https://packagemanager.posit.co/cran/latest",
       "Package": "shinydashboard"
     },
     "googlesheets4": {
       "Source": "CRAN",
-      "Repository": "https://cran.r-project.org",
+      "Repository": "https://packagemanager.posit.co/cran/latest",
       "Package": "googlesheets4"
     },
     "dplyr": {
       "Source": "CRAN",
-      "Repository": "https://cran.r-project.org",
+      "Repository": "https://packagemanager.posit.co/cran/latest",
       "Package": "dplyr"
     },
     "tidyr": {
       "Source": "CRAN",
-      "Repository": "https://cran.r-project.org",
+      "Repository": "https://packagemanager.posit.co/cran/latest",
       "Package": "tidyr"
     },
     "plotly": {
       "Source": "CRAN",
-      "Repository": "https://cran.r-project.org",
+      "Repository": "https://packagemanager.posit.co/cran/latest",
       "Package": "plotly"
     },
     "DT": {
       "Source": "CRAN",
-      "Repository": "https://cran.r-project.org",
+      "Repository": "https://packagemanager.posit.co/cran/latest",
       "Package": "DT"
     },
     "scales": {
       "Source": "CRAN",
-      "Repository": "https://cran.r-project.org",
+      "Repository": "https://packagemanager.posit.co/cran/latest",
       "Package": "scales"
     },
     "lubridate": {
       "Source": "CRAN",
-      "Repository": "https://cran.r-project.org",
+      "Repository": "https://packagemanager.posit.co/cran/latest",
       "Package": "lubridate"
     },
     "stringr": {
       "Source": "CRAN",
-      "Repository": "https://cran.r-project.org",
+      "Repository": "https://packagemanager.posit.co/cran/latest",
       "Package": "stringr"
     }
   },
