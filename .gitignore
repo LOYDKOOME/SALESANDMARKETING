@@ -1,0 +1,20 @@
+# Secrets: never commit keys, tokens or passwords
+*.json
+!appsscript.json
+!manifest.json
+*service*account*
+*-key*.json
+.env
+.Renviron
+.secrets/
+# R
+.Rhistory
+.RData
+.Rproj.user/
+rsconnect/
+renv/library/
+# Office temporary files
+~$*.xlsx
+# OS / editor
+.DS_Store
+Thumbs.db
