@@ -1,0 +1,6 @@
+Package: hyssopdashboard
+Title: Hyssop Performance Dashboard
+Version: 4.0.0
+Description: Read-only Shiny dashboard for the Hyssop performance system.
+License: Proprietary
+Imports: shiny, shinydashboard, googlesheets4, dplyr, tidyr, plotly, DT, scales, lubridate, stringr
